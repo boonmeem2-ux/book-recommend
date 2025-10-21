@@ -1,0 +1,109 @@
+ 
+ 
+ 
+ .my-div {
+    background-color: #cecece;
+    width: 1200px;
+    height: px;}
+    
+.my-text {
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: "Prompt", sans-serif;
+}
+
+.section{text-indent: 2em;}
+
+.font01 {
+  font-family: "Prompt", sans-serif;
+  font-weight: 350;
+  font-style: normal;
+  font-size: 32px;
+}
+
+.myfont05{
+  font-family: "Prompt", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:  16px;
+}
+
+
+.font-02{
+  color: rgb(255, 255, 255);
+  font-size: 18px;}
+
+.font-address{
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.alert-promo {
+    border-radius: 15px; /* ปรับขนาดความโค้งได้ตามใจ */
+  }
+
+.bottom-bg{
+  background-color: hsl(0, 0%, 100%);
+}
+.bottom-bg2{
+  background-color: #221919;
+}
+.my-textbottom{
+  font-size: 20px;
+  color: #221919;
+ font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  
+
+}
+ .btn-maroon {
+    background-color: #614b4b; /* สีแดงเลือดหมู */
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    
+ }
+ .btn-maroon:hover {
+    background-color: #472121;}
+
+.box{
+  background-color: #1f1d1a;
+}
+
+.text-box{
+  font-size: 30px;
+  color: #000000;
+}
+
+.box-radius{
+  border-radius: 20px;
+  background-color: #dbdbdb;
+
+}
+
+/* thingthatyouwillleranfromthisbook */
+.font-head-book{
+  color: #221919;
+ font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size:  30px;
+}
+/* หัวข้อประโยชน์ที่ได้รับ */
+.font-in-box{
+  color: #221919;
+  font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size:  30px;
+}
+
+
+ .box-shadow-custom {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: #fff; /* ใส่พื้นหลังด้วยถ้าต้องการให้เงาชัด */
+    padding: 30px;
+  }
